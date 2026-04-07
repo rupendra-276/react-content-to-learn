@@ -27,6 +27,9 @@ I am learning React from the following YouTube channels:
 * 📺 Chai aur Code (Beginner to advanced React)
 * 📺 Procoder (Practical & real-world projects)
 
+- Chai aur Code React: https://youtu.be/vz1RlUyrc3w
+- Procoder React: https://youtu.be/_rTCzxg6VmM
+- Procoder Redux: https://youtu.be/Bi2A180vAVQ
 > 💡 I mix concepts from all these sources to build my own understanding.
 
 ---
